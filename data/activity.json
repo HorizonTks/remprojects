@@ -1,1 +1,76 @@
-{"description":"Append-oriented event history for state transitions, approvals and consequential project activity.","events":[{"actor":"Robert","date":"2026-11-15","ref":"repo HorizonTks/remprojects","summary":"Projects House skeleton built and live on GitHub Pages: seven pages, five empty JSON registries, manuscript-approval rule posted on the Foyer and in policies.json.","type":"house-skeleton-live"},{"actor":"Robert","date":"2026-11-15","ref":"TRP_Inventory_REVISED_2026-11-15.docx","summary":"Revised comprehensive inventory adopted as the governing inventory, superseding Muse's first walk of the same evening.","type":"inventory-revised"},{"actor":"Robert","date":"2026-11-15","ref":"policies: public repository","summary":"Public visibility resolved: the repository and Pages stay public. Core rule adopted: TRP tracks the work and does not warehouse sensitive material; manuscripts, correspondence, contracts, and financial records stay in protected storage, and TRP holds pointers and operational metadata only. remprojects.org stays unpointed.","type":"decision"},{"actor":"Robert","date":"2026-11-15","ref":"commit c6644fe","summary":"Seven-work seed for the canonical works registry approved and committed to data/works.json.","type":"approval-and-population"},{"actor":"Robert","date":"2026-11-15","ref":"commit 3ec0f6f","summary":"Webworks registry approved and committed to data/webworks.json: eight properties, the complete known set.","type":"approval-and-population"},{"actor":"Robert","date":"2026-11-15","ref":"commit 85829dd","summary":"Publishing Ledger approved and committed to data/submissions.json: 26 records. Note: the commit message reads '25 records' in error (Muse's count, caught on verification); the file holds 26 records and its content is exactly as approved. This event is the correction of record.","type":"approval-and-population"},{"actor":"Robert","date":"2026-11-15","ref":"data/works.json","summary":"Backfill event, appended 2026-11-16 at Robert's ruling: two works records were added to data/works.json on 2026-11-15 beyond the approved seven-work seed: Remembering You're Extraordinary (original) and Remembering You're Extraordinary, RYE 2.0, both on Robert's confirmations of that day. No event recorded them at the time; this backfill completes the history. Robert confirmed on 2026-11-16 that both records are his as they stand.","type":"backfill-works-records"},{"actor":"Robert","date":"2026-11-16","ref":"data/works.json","summary":"Robert ruled: there is only one book, Remembering You're Extraordinary, and RYE 2.0 is version 2 of it, not a second work. The two works records were folded into one record in data/works.json, with version 2 noted on it as in active development in Santa's Workshop. The earlier two-record state remains in this history and in the 2026-11-15 backfill event.","type":"one-book-ruling"},{"actor":"Robert","date":"2026-11-16","ref":"data/works.json","summary":"At Robert's direction, each works record gained a simple on-the-bench mark so the Workshop page can fill itself from the records. The lineup as set by Robert: on the bench are Where Hearts Abide (his correction, replacing The Story Standing in Front of the World), Greystone Book I: Dorian, TSC Book I: Unraveling Darkness, The Inheritor, Joe Thoroughgood Adventures, Buttermilk Sandwitch, and Remembering You're Extraordinary (through version 2). Not on the bench: The Story Standing in Front of the World.","type":"workbench-marks-added"},{"actor":"Muse (scheduled check)","date":"2026-11-16","ref":"trouble-with-time-submission-pit","summary":"Checked the October 2026 Submission Pit winner announcement on thesubmissionpit.substack.com (archive and winner post, published 2026-11-03): winner was The Weatherman by Justin Ocelot; The Trouble With Time was not selected. No winner notice found in the connected Outlook mailbox (RRemyMiller@outlook.com).","type":"submission-outcome-checked"}],"schema_version":1}
+{
+  "description": "Append-oriented event history for state transitions, approvals and consequential project activity.",
+  "events": [
+    {
+      "actor": "Robert",
+      "date": "2026-11-15",
+      "ref": "repo HorizonTks/remprojects",
+      "summary": "Projects House skeleton built and live on GitHub Pages: seven pages, five empty JSON registries, manuscript-approval rule posted on the Foyer and in policies.json.",
+      "type": "house-skeleton-live"
+    },
+    {
+      "actor": "Robert",
+      "date": "2026-11-15",
+      "ref": "TRP_Inventory_REVISED_2026-11-15.docx",
+      "summary": "Revised comprehensive inventory adopted as the governing inventory, superseding Muse's first walk of the same evening.",
+      "type": "inventory-revised"
+    },
+    {
+      "actor": "Robert",
+      "date": "2026-11-15",
+      "ref": "policies: public repository",
+      "summary": "Public visibility resolved: the repository and Pages stay public. Core rule adopted: TRP tracks the work and does not warehouse sensitive material; manuscripts, correspondence, contracts, and financial records stay in protected storage, and TRP holds pointers and operational metadata only. remprojects.org stays unpointed.",
+      "type": "decision"
+    },
+    {
+      "actor": "Robert",
+      "date": "2026-11-15",
+      "ref": "commit c6644fe",
+      "summary": "Seven-work seed for the canonical works registry approved and committed to data/works.json.",
+      "type": "approval-and-population"
+    },
+    {
+      "actor": "Robert",
+      "date": "2026-11-15",
+      "ref": "commit 3ec0f6f",
+      "summary": "Webworks registry approved and committed to data/webworks.json: eight properties, the complete known set.",
+      "type": "approval-and-population"
+    },
+    {
+      "actor": "Robert",
+      "date": "2026-11-15",
+      "ref": "commit 85829dd",
+      "summary": "Publishing Ledger approved and committed to data/submissions.json: 26 records. Note: the commit message reads '25 records' in error (Muse's count, caught on verification); the file holds 26 records and its content is exactly as approved. This event is the correction of record.",
+      "type": "approval-and-population"
+    },
+    {
+      "actor": "Robert",
+      "date": "2026-11-15",
+      "ref": "data/works.json",
+      "summary": "Backfill event, appended 2026-11-16 at Robert's ruling: two works records were added to data/works.json on 2026-11-15 beyond the approved seven-work seed: Remembering You're Extraordinary (original) and Remembering You're Extraordinary, RYE 2.0, both on Robert's confirmations of that day. No event recorded them at the time; this backfill completes the history. Robert confirmed on 2026-11-16 that both records are his as they stand.",
+      "type": "backfill-works-records"
+    },
+    {
+      "actor": "Robert",
+      "date": "2026-11-16",
+      "ref": "data/works.json",
+      "summary": "Robert ruled: there is only one book, Remembering You're Extraordinary, and RYE 2.0 is version 2 of it, not a second work. The two works records were folded into one record in data/works.json, with version 2 noted on it as in active development in Santa's Workshop. The earlier two-record state remains in this history and in the 2026-11-15 backfill event.",
+      "type": "one-book-ruling"
+    },
+    {
+      "actor": "Robert",
+      "date": "2026-11-16",
+      "ref": "data/works.json",
+      "summary": "At Robert's direction, each works record gained a simple on-the-bench mark so the Workshop page can fill itself from the records. The lineup as set by Robert: on the bench are Where Hearts Abide (his correction, replacing The Story Standing in Front of the World), Greystone Book I: Dorian, TSC Book I: Unraveling Darkness, The Inheritor, Joe Thoroughgood Adventures, Buttermilk Sandwitch, and Remembering You're Extraordinary (through version 2). Not on the bench: The Story Standing in Front of the World.",
+      "type": "workbench-marks-added"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "wip-pointers-recorded",
+      "actor": "Robert (locations stated); Muse (recorded)",
+      "summary": "Work-in-progress folder locations recorded as pointers on the house records, per Robert 2026-11-16: Joe Thoroughgood Adventures and Buttermilk Sandwitch WIP folders in OneDrive under _REM Current Projects / _Remy.R.Miller / D Current Projects / Substack; Etsy digital products WIP folder under D Current Projects / Etsy / Digital Products. The house holds the addresses only; the folders themselves stay in OneDrive.",
+      "ref": "data/works.json; data/webworks.json"
+    }
+  ],
+  "schema_version": 1
+}
