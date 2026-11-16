@@ -1,1 +1,69 @@
-{"schema_version":1,"description":"Canonical works registry. One work, one authoritative record, many views.","works":[]}
+{
+  "schema_version": 1,
+  "description": "Canonical works registry. One work, one authoritative record, many views.",
+  "works": [
+    {
+      "id": "where-hearts-abide",
+      "title": "Where Hearts Abide",
+      "form": "Book of poetry",
+      "status": "Named project. No submission activity on record yet.",
+      "provenance": "Reported",
+      "source": "Robert's specification for TRP, 2026-11-15",
+      "last_verified": "2026-11-15"
+    },
+    {
+      "id": "greystone-book-1-dorian",
+      "title": "Greystone Book I: Dorian",
+      "form": "Novel (Book One of the Greystone quadrilogy); backbone to the Greystone screen property",
+      "status": "In progress. Synopsis, Prologue, and Chapter 1 (Rainlight) exist; the book is to be finished, settled 2026-11-15. Screen side: 27-page WIP pilot; ISA Great Pitch pending, Quarter-Finalists announced 2026-12-03.",
+      "provenance": "Verified",
+      "source": "Manuscript files read 2026-11-13; ISA receipt 2026-10-21; Robert's ruling 2026-11-15",
+      "last_verified": "2026-11-15"
+    },
+    {
+      "id": "tsc-book-1-unraveling-darkness",
+      "title": "TSC Book I: Unraveling Darkness",
+      "form": "Novel (Book One of The Spiral Chronicles), adult epic fantasy",
+      "status": "In progress. 69,415 words drafted; roughly a dozen chapters remain toward about 93,000 to 95,000. Robert is finishing it with Muse as ledger-keeper of what the story owes; no writing by Muse.",
+      "provenance": "Verified",
+      "source": "Manuscript received and read 2026-11-13/14; decision recorded 2026-11-13",
+      "last_verified": "2026-11-14"
+    },
+    {
+      "id": "the-inheritor",
+      "title": "The Inheritor",
+      "form": "Short story (Greystone world)",
+      "status": "Pending at Haven Spec (submitted 2026-08-22; follow-up overdue) and Three-Lobed Burning Eye (submitted 2026-09-03). Staged as the Uncharted Magazine Novel Excerpt Prize entry for 2026-12-12, subject to status check and Robert's approval.",
+      "provenance": "Verified",
+      "source": "Submission confirmations audited 2026-10-21; Uncharted plan restored 2026-11-13",
+      "last_verified": "2026-11-13"
+    },
+    {
+      "id": "the-story-standing-in-front-of-the-world",
+      "title": "The Story Standing in Front of the World",
+      "form": "Named work (form not yet on record)",
+      "status": "Named project. No further record yet.",
+      "provenance": "Reported",
+      "source": "Robert's specification for TRP, 2026-11-15",
+      "last_verified": "2026-11-15"
+    },
+    {
+      "id": "joe-thoroughgood-adventures",
+      "title": "Joe Thoroughgood Adventures",
+      "form": "Named work (adventure series)",
+      "status": "Named project. No further record yet.",
+      "provenance": "Reported",
+      "source": "Robert's specification for TRP, 2026-11-15",
+      "last_verified": "2026-11-15"
+    },
+    {
+      "id": "buttermilk-sandwitch",
+      "title": "Buttermilk Sandwitch",
+      "form": "Series and episodes (Substack)",
+      "status": "Published episodes on Substack. Voice-recording engagement, paid, one episode a month, Substack only; Episode 666 edit delivered and approved 2026-10-31.",
+      "provenance": "Verified",
+      "source": "Recording engagement stated 2026-10-23; Episode 666 approval 2026-10-31",
+      "last_verified": "2026-10-31"
+    }
+  ]
+}
