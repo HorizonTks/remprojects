@@ -1,0 +1,1 @@
+{"schema_version":1,"policies":[{"id":"manuscript-approval","title":"Canonical manuscript protection","rule":"SUBSTANTIVE MANUSCRIPT CHANGE REQUIRES REMY APPROVAL.","effect":"Proposed revisions may coexist with a canonical manuscript, but may not replace it until explicitly approved."}]}
