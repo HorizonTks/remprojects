@@ -1,1 +1,48 @@
-{"schema_version":1,"description":"Append-oriented event history for state transitions, approvals and consequential project activity.","events":[]}
+{
+  "schema_version": 1,
+  "description": "Append-oriented event history for state transitions, approvals and consequential project activity.",
+  "events": [
+    {
+      "date": "2026-11-15",
+      "type": "house-skeleton-live",
+      "actor": "Robert",
+      "summary": "Projects House skeleton built and live on GitHub Pages: seven pages, five empty JSON registries, manuscript-approval rule posted on the Foyer and in policies.json.",
+      "ref": "repo HorizonTks/remprojects"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "inventory-revised",
+      "actor": "Robert",
+      "summary": "Revised comprehensive inventory adopted as the governing inventory, superseding Muse's first walk of the same evening.",
+      "ref": "TRP_Inventory_REVISED_2026-11-15.docx"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "decision",
+      "actor": "Robert",
+      "summary": "Public visibility resolved: the repository and Pages stay public. Core rule adopted: TRP tracks the work and does not warehouse sensitive material; manuscripts, correspondence, contracts, and financial records stay in protected storage, and TRP holds pointers and operational metadata only. remprojects.org stays unpointed.",
+      "ref": "policies: public repository"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "approval-and-population",
+      "actor": "Robert",
+      "summary": "Seven-work seed for the canonical works registry approved and committed to data/works.json.",
+      "ref": "commit c6644fe"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "approval-and-population",
+      "actor": "Robert",
+      "summary": "Webworks registry approved and committed to data/webworks.json: eight properties, the complete known set.",
+      "ref": "commit 3ec0f6f"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "approval-and-population",
+      "actor": "Robert",
+      "summary": "Publishing Ledger approved and committed to data/submissions.json: 26 records. Note: the commit message reads '25 records' in error (Muse's count, caught on verification); the file holds 26 records and its content is exactly as approved. This event is the correction of record.",
+      "ref": "commit 85829dd"
+    }
+  ]
+}
