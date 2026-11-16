@@ -1,78 +1,79 @@
 {
-  "schema_version": 1,
   "description": "Web properties treated as first-class REM Projects assets.",
+  "schema_version": 1,
   "webworks": [
     {
       "id": "the-rem-projects",
-      "name": "The REM Projects",
+      "last_verified": "2026-11-16",
       "location": "https://horizontks.github.io/remprojects/",
-      "status": "Deployed. Skeleton live 2026-11-15; population in progress. Domain remprojects.org owned and deliberately not pointed.",
+      "name": "The REM Projects",
       "provenance": "Verified",
       "source": "Live walk and repo inventory, 2026-11-15; Robert's revised inventory, 2026-11-15",
-      "last_verified": "2026-11-15"
+      "status": "Deployed. Skeleton live 2026-11-15; registries populated 2026-11-15; pages render themselves from the records and the scheduled workers are wired, both completed 2026-11-16. Domain remprojects.org owned and deliberately not pointed."
     },
     {
       "id": "horizon-technologys",
-      "name": "Horizon Technologys",
+      "last_verified": "2026-11-03",
       "location": "https://horizontks.com",
-      "status": "Deployed. Common footer live; indexing and canonical work completed October 2026.",
+      "name": "Horizon Technologys",
       "provenance": "Verified",
       "source": "Common footer verification across all pages, 2026-11-03",
-      "last_verified": "2026-11-03"
+      "status": "Deployed. Common footer live; indexing and canonical work completed October 2026."
     },
     {
       "id": "markhamideas-org",
-      "name": "MarkhamIdeas.org",
+      "last_verified": "2026-11-03",
       "location": "https://markhamideas.org",
-      "status": "Deployed. Essays and fiction; common footer live. Also a Study research program and an emerging book project under one underlying record.",
+      "name": "MarkhamIdeas.org",
       "provenance": "Verified",
       "source": "Common footer verification across all pages, 2026-11-03",
-      "last_verified": "2026-11-03"
+      "status": "Deployed. Essays and fiction; common footer live. Also a Study research program and an emerging book project under one underlying record."
     },
     {
       "id": "the-rye-house",
-      "name": "The Rye House",
+      "last_verified": "2026-11-03",
       "location": "https://theryehouse.com",
-      "status": "Deployed. Common footer live; hero tagline set 2026-11-03.",
+      "name": "The Rye House",
       "provenance": "Verified",
       "source": "Common footer verification, 2026-11-03",
-      "last_verified": "2026-11-03"
+      "status": "Deployed. Common footer live; hero tagline set 2026-11-03."
     },
     {
       "id": "the-rye-house-etsy",
-      "name": "The Rye House Etsy Store",
+      "last_verified": "2026-11-16",
       "location": "Etsy shop: TheRYEHouse",
-      "status": "Deployed. Five digital guides plus the five-guide bundle; first sale 2026-10-31. Etsy Plus ends 2026-12-07; shop front check due 2026-12-08.",
+      "name": "The Rye House Etsy Store",
       "provenance": "Verified",
       "source": "Etsy Plus cancellation confirmation, 2026-11-09",
-      "last_verified": "2026-11-09"
+      "status": "Deployed. Five digital guides plus the five-guide bundle; first sale 2026-10-31. Etsy Plus ends 2026-12-07; shop front check due 2026-12-08.",
+      "wip_location": "OneDrive → _REM Current Projects → _Remy.R.Miller → D Current Projects → Etsy → Digital Products (WIP folder; published PDFs in its _Published PDFs subfolder)"
     },
     {
       "id": "the-jkm-group",
-      "name": "The JKM Group",
+      "last_verified": "2026-11-03",
       "location": "https://thejkmgroup.com",
-      "status": "Deployed. Memorial to Julia Kay Miller (1959-2023). Leave the memorial as is; excluded from the common footer by Robert's ruling.",
+      "name": "The JKM Group",
       "provenance": "Verified",
       "source": "Site inventory, 2026-11-03",
-      "last_verified": "2026-11-03"
+      "status": "Deployed. Memorial to Julia Kay Miller (1959-2023). Leave the memorial as is; excluded from the common footer by Robert's ruling."
     },
     {
       "id": "remy-miller-author-site",
-      "name": "Remy Miller Author Site",
+      "last_verified": "2026-11-06",
       "location": "https://remyrmiller.com (current); rremymiller.com (registered 2026-11-06, not yet pointed)",
-      "status": "In development. Current site has two working pages. Redesign brief written 2026-11-06; scope decision (repair two pages vs full build) awaiting Robert. New domain stays unpointed until the redeploy is complete.",
+      "name": "Remy Miller Author Site",
       "provenance": "Verified",
       "source": "Site audit 2026-10-30; live recheck 2026-11-06",
-      "last_verified": "2026-11-06"
+      "status": "In development. Current site has two working pages. Redesign brief written 2026-11-06; scope decision (repair two pages vs full build) awaiting Robert. New domain stays unpointed until the redeploy is complete."
     },
     {
       "id": "rguytano-com",
-      "name": "RGuytano.com",
+      "last_verified": "2026-11-15",
       "location": "rguytano.com (in development)",
-      "status": "In development. Art gallery type site on a very light gray ground. No brief yet.",
+      "name": "RGuytano.com",
       "provenance": "Reported",
       "source": "Robert's listing of in-development sites, 2026-11-15",
-      "last_verified": "2026-11-15"
+      "status": "In development. Art gallery type site on a very light gray ground. No brief yet."
     }
   ]
 }
