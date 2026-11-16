@@ -70,6 +70,13 @@
       "actor": "Robert (locations stated); Muse (recorded)",
       "summary": "Work-in-progress folder locations recorded as pointers on the house records, per Robert 2026-11-16: Joe Thoroughgood Adventures and Buttermilk Sandwitch WIP folders in OneDrive under _REM Current Projects / _Remy.R.Miller / D Current Projects / Substack; Etsy digital products WIP folder under D Current Projects / Etsy / Digital Products. The house holds the addresses only; the folders themselves stay in OneDrive.",
       "ref": "data/works.json; data/webworks.json"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "grynkie-production-plan-recorded",
+      "actor": "Robert (authorized); Charli (recorded)",
+      "ref": "data/works.json#the-grynkie-treasury",
+      "summary": "The Grynkie Treasury added as one canonical works record, visible in Library and on Santa's Workshop bench. Book I's IngramSpark full-color hardcover plan is linked to that record and displayed in Publishing under Production & Proofs. Next: confirm print specifications and price one print-only copy; settle ISBN/imprint, prepare compliant files, then order and review one physical proof before distribution decisions. No purchase or order is recorded."
     }
   ],
   "schema_version": 1

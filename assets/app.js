@@ -103,6 +103,31 @@ function renderPublishing(){
   });
 }
 
+/* Production: a publishing view of the canonical works records. */
+function renderProduction(){
+  const list=document.getElementById('publishing-production');
+  if(!list){ return; }
+  fetchRecords('data/works.json').then(function(data){
+    list.textContent='';
+    data.works.forEach(function(w){
+      const plan=w.publishing_plan;
+      if(!plan){ return; }
+      const lines=[
+        plan.route,
+        'Stage: '+plan.stage,
+        plan.status,
+        plan.publisher,
+        'Next: '+plan.next_action
+      ];
+      (plan.steps||[]).forEach(function(step){ lines.push(step); });
+      lines.push(provenanceLine(plan));
+      const c=card(w.title, lines);
+      c.id=w.id;
+      list.appendChild(c);
+    });
+  }).catch(function(){ fillError(list); });
+}
+
 /* Webworks: webworks.json, one list. */
 function renderWebworks(){
   const list=document.getElementById('webworks-list');
@@ -203,6 +228,7 @@ function renderFoyer(){
 document.addEventListener('DOMContentLoaded', function(){
   renderLibrary();
   renderPublishing();
+  renderProduction();
   renderWebworks();
   renderWorkshop();
   renderFoyer();

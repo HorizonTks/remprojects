@@ -83,6 +83,32 @@
       "source": "Robert confirmed TRP placement and recovered project decisions, 2026-11-15; one-book ruling, 2026-11-16",
       "last_verified": "2026-11-16",
       "on_workbench": true
+    },
+    {
+      "id": "the-grynkie-treasury",
+      "title": "The Grynkie Treasury",
+      "form": "Book / illustrated treasury (Book I hardcover production)",
+      "status": "Book I: planning a full-color hardcover proof through IngramSpark. Print specifications, ISBN/imprint choice, and the delivered cost of one copy are still to be settled; no proof order is recorded.",
+      "provenance": "Reported",
+      "source": "Grynkie/IngramSpark plan discussed 2026-11-11; Robert authorized Projects House tracking 2026-11-16",
+      "last_verified": "2026-11-16",
+      "on_workbench": true,
+      "publishing_plan": {
+        "route": "IngramSpark · Book I full-color hardcover",
+        "stage": "Specifications and one-copy production economics",
+        "status": "Planning; no final print quote, ISBN purchase, or proof order recorded.",
+        "publisher": "Remy is the publisher; IngramSpark is the proposed printing/distribution service.",
+        "next_action": "Confirm final trim size, page count, color level, paper and binding; use IngramSpark's Print and Ship Calculator to price one print-only hardcover copy, including shipping and applicable tax.",
+        "steps": [
+          "Settle ISBN and imprint: prefer an ISBN owned by the publisher; compare available routes and verify current cost, ownership and transfer terms before purchase.",
+          "Prepare and validate the interior and cover files against the chosen IngramSpark specifications.",
+          "Order one print-only full-color hardcover proof after specifications and cost are agreed; inspect the physical copy before any launch or distribution decision.",
+          "If distribution is later chosen, assess list price, print margin, wholesale discount and returns exposure separately; availability does not guarantee retail stocking."
+        ],
+        "source": "Existing Grynkie/IngramSpark planning; recorded at Robert's direction, 2026-11-16",
+        "provenance": "Reported",
+        "last_verified": "2026-11-16"
+      }
     }
   ]
 }
