@@ -1,0 +1,1 @@
+{"schema_version":1,"provenance_states":["Verified","Reported","Inferred","Inaccessible","Unknown"],"description":"Publishing ledger records. Never convert inaccessible or unknown status into an inferred active state without evidence.","submissions":[]}
