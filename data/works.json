@@ -64,6 +64,24 @@
       "provenance": "Verified",
       "source": "Recording engagement stated 2026-10-23; Episode 666 approval 2026-10-31",
       "last_verified": "2026-10-31"
+    },
+    {
+      "id": "remembering-youre-extraordinary",
+      "title": "Remembering You're Extraordinary",
+      "form": "Book / canonical original property",
+      "status": "Original property retained in the Library and Publishing Office. Publishing history includes Broadleaf Books submission in April 2026. The Rye House is its literary home.",
+      "provenance": "Reported",
+      "source": "Robert confirmed TRP placement and recovered project decisions, 2026-11-15",
+      "last_verified": "2026-11-15"
+    },
+    {
+      "id": "remembering-youre-extraordinary-rye-2",
+      "title": "Remembering You're Extraordinary — RYE 2.0",
+      "form": "Substantially reimagined work growing from the ideas and principles of the original",
+      "status": "Active development in Santa's Workshop. Final relationship to the original remains deliberately TBD; not classified as a sequel or revised edition.",
+      "provenance": "Reported",
+      "source": "Robert confirmed recovered RYE 2.0 project decision, 2026-11-15",
+      "last_verified": "2026-11-15"
     }
   ]
 }
