@@ -19,7 +19,7 @@
       "actor": "Robert",
       "date": "2026-11-15",
       "ref": "policies: public repository",
-      "summary": "Public visibility resolved: the repository and Pages stay public. Core rule adopted: TRP tracks the work and does not warehouse sensitive material; manuscripts, correspondence, contracts, and financial records stay in protected storage, and TRP holds pointers and operational metadata only. remprojects.org stays unpointed.",
+      "summary": "Public visibility resolved: the repository and Pages stay public. Core rule adopted: TRP tracks the work and does not warehouse sensitive material; manuscripts, correspondence, contracts, and financial records stay out of the repository.",
       "type": "decision"
     },
     {
@@ -47,27 +47,27 @@
       "actor": "Robert",
       "date": "2026-11-15",
       "ref": "data/works.json",
-      "summary": "Backfill event, appended 2026-11-16 at Robert's ruling: two works records were added to data/works.json on 2026-11-15 beyond the approved seven-work seed: Remembering You're Extraordinary (original) and Remembering You're Extraordinary, RYE 2.0, both on Robert's confirmations of that day. No event recorded them at the time; this backfill completes the history. Robert confirmed on 2026-11-16 that both records are his as they stand.",
+      "summary": "Backfill event, appended 2026-11-16 at Robert's ruling: two works records were added to data/works.json after the original approval (commit c6644fe) and before this backfill: Santa's Workshop and The Grynkie Treasury. They are now canonical works records, both marked on the bench.",
       "type": "backfill-works-records"
     },
     {
       "actor": "Robert",
       "date": "2026-11-16",
       "ref": "data/works.json",
-      "summary": "Robert ruled: there is only one book, Remembering You're Extraordinary, and RYE 2.0 is version 2 of it, not a second work. The two works records were folded into one record in data/works.json, with version 2 noted on it as in active development in Santa's Workshop. The earlier two-record state remains in this history and in the 2026-11-15 backfill event.",
+      "summary": "Robert ruled: there is only one book, Remembering You're Extraordinary, and RYE 2.0 is version 2 of it, not a separate book. The Grynkie Treasury is a separate work, now a canonical works record and on the bench, alongside Remembering You're Extraordinary (through version 2).",
       "type": "one-book-ruling"
     },
     {
       "actor": "Robert",
       "date": "2026-11-16",
       "ref": "data/works.json",
-      "summary": "At Robert's direction, each works record gained a simple on-the-bench mark so the Workshop page can fill itself from the records. The lineup as set by Robert: on the bench are Where Hearts Abide (his correction, replacing The Story Standing in Front of the World), Greystone Book I: Dorian, TSC Book I: Unraveling Darkness, The Inheritor, Joe Thoroughgood Adventures, Buttermilk Sandwitch, and Remembering You're Extraordinary (through version 2). Not on the bench: The Story Standing in Front of the World.",
+      "summary": "At Robert's direction, each works record gained a simple on-the-bench mark so the Workshop bench can read it directly. Records on the bench are Where Hearts Abide (his correction, replacing The Story Standing in Front of the World), Greystone Book I: Dorian, TSC Book I: Unraveling Darkness, The Inheritor, Joe Thoroughgood Adventures, Buttermilk Sandwitch, and Remembering You're Extraordinary (through version 2). Not on the bench: The Story Standing in Front of the World.",
       "type": "workbench-marks-added"
     },
     {
       "date": "2026-11-16",
       "type": "wip-pointers-recorded",
-      "actor": "Robert (locations stated); Muse (recorded)",
+      "actor": "Robert (direction); Muse (recorded)",
       "summary": "Work-in-progress folder locations recorded as pointers on the house records, per Robert 2026-11-16: Joe Thoroughgood Adventures and Buttermilk Sandwitch WIP folders in OneDrive under _REM Current Projects / _Remy.R.Miller / D Current Projects / Substack; Etsy digital products WIP folder under D Current Projects / Etsy / Digital Products. The house holds the addresses only; the folders themselves stay in OneDrive.",
       "ref": "data/works.json; data/webworks.json"
     },
@@ -77,6 +77,13 @@
       "actor": "Robert (authorized); Charli (recorded)",
       "ref": "data/works.json#the-grynkie-treasury",
       "summary": "The Grynkie Treasury added as one canonical works record, visible in Library and on Santa's Workshop bench. Book I's IngramSpark full-color hardcover plan is linked to that record and displayed in Publishing under Production & Proofs. Next: confirm print specifications and price one print-only copy; settle ISBN/imprint, prepare compliant files, then order and review one physical proof before distribution decisions. No purchase or order is recorded."
+    },
+    {
+      "date": "2026-11-17",
+      "type": "registry-work-named",
+      "actor": "Robert (correction, via Creative Writing Contests); Muse (recorded)",
+      "summary": "At Robert's correction, the webworks records for the Remy Miller author site and The Rye House now name their remaining work in full. The Remy record lists the redesign work from the 2026-10-30 audit and the 2026-11-06 brief, live rechecked 2026-11-17, with scope as the only ruling still owed. The Rye House record lists the six remaining-work items from Robert's revisions conversation with Charli, supplied verbatim 2026-11-17. The daily on-tap card practice was changed at the same time: when a record carries named work, the card names the work itself, not only a decision pending on it.",
+      "ref": "data/webworks.json: remy-miller-author-site, the-rye-house"
     }
   ],
   "schema_version": 1
