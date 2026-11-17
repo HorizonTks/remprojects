@@ -1,97 +1,96 @@
 {
-  "description": "REM Projects House activity history. Append-oriented: consequential events in order. Nothing is removed.",
-  "schema_version": 1,
+  "description": "Append-oriented event history for state transitions, approvals and consequential project activity.",
   "events": [
     {
-      "date": "2026-11-15",
-      "type": "house-skeleton-live",
       "actor": "Robert",
-      "summary": "Robert built the Projects House skeleton and put it live on GitHub Pages (repo HorizonTks/remprojects). Seven rooms: Foyer, Publishing, Library, Workshop, Study, Webworks, Archives, over an empty data layer.",
-      "ref": "https://horizontks.github.io/remprojects/"
+      "date": "2026-11-15",
+      "ref": "repo HorizonTks/remprojects",
+      "summary": "Projects House skeleton built and live on GitHub Pages: seven pages, five empty JSON registries, manuscript-approval rule posted on the Foyer and in policies.json.",
+      "type": "house-skeleton-live"
     },
     {
-      "date": "2026-11-15",
-      "type": "inventory-revised",
       "actor": "Robert",
-      "summary": "Robert issued the revised inventory (TRP_Inventory.docx), superseding Muse's first walk of the skeleton and governing the population phase.",
-      "ref": "~/workspace/remprojects/TRP_Inventory_REVISED_2026-11-15.docx"
+      "date": "2026-11-15",
+      "ref": "TRP_Inventory_REVISED_2026-11-15.docx",
+      "summary": "Revised comprehensive inventory adopted as the governing inventory, superseding Muse's first walk of the same evening.",
+      "type": "inventory-revised"
     },
     {
-      "date": "2026-11-15",
-      "type": "decision",
       "actor": "Robert",
-      "summary": "Public visibility resolved: the repo and Pages site stay public. House rule adopted: TRP tracks the work; it does not warehouse sensitive material. Manuscripts, correspondence, contracts, financials, and credentials stay in protected storage; TRP holds pointers and operational metadata only.",
-      "ref": "TRP_Inventory_REVISED_2026-11-15.docx"
+      "date": "2026-11-15",
+      "ref": "policies: public repository",
+      "summary": "Public visibility resolved: the repository and Pages stay public. Core rule adopted: TRP tracks the work and does not warehouse sensitive material; manuscripts, correspondence, contracts, and financial records stay in protected storage, and TRP holds pointers and operational metadata only. remprojects.org stays unpointed.",
+      "type": "decision"
     },
     {
-      "date": "2026-11-15",
-      "type": "works-populated",
-      "actor": "Robert (approved); Muse (drafted, committed)",
-      "summary": "Works registry populated with the approved seven-work seed inventory.",
-      "ref": "commit c6644fe"
-    },
-    {
-      "date": "2026-11-15",
-      "type": "webworks-populated",
-      "actor": "Robert (approved); Muse (drafted, committed)",
-      "summary": "Webworks registry populated with the eight known web properties.",
-      "ref": "commit 3ec0f6f"
-    },
-    {
-      "date": "2026-11-15",
-      "type": "submissions-populated",
-      "actor": "Robert (approved); Muse (drafted, committed)",
-      "summary": "Publishing ledger populated. CORRECTION OF RECORD: the ledger holds 26 records, not 25 as the commit message and first report stated. Muse's count was wrong; the committed content is exactly what Robert approved, record for record.",
-      "ref": "commit 85829dd"
-    },
-    {
-      "date": "2026-11-15",
-      "type": "backfill-works-records",
       "actor": "Robert",
-      "summary": "Robert added two works records directly on 2026-11-15: remembering-youre-extraordinary and remembering-youre-extraordinary-rye-2. Muse found them during the rendering-day check; Robert confirmed both are his and directed this backfill event so the history explains why the registry grew from the approved seven to nine.",
-      "ref": "data/works.json"
+      "date": "2026-11-15",
+      "ref": "commit c6644fe",
+      "summary": "Seven-work seed for the canonical works registry approved and committed to data/works.json.",
+      "type": "approval-and-population"
     },
     {
+      "actor": "Robert",
+      "date": "2026-11-15",
+      "ref": "commit 3ec0f6f",
+      "summary": "Webworks registry approved and committed to data/webworks.json: eight properties, the complete known set.",
+      "type": "approval-and-population"
+    },
+    {
+      "actor": "Robert",
+      "date": "2026-11-15",
+      "ref": "commit 85829dd",
+      "summary": "Publishing Ledger approved and committed to data/submissions.json: 26 records. Note: the commit message reads '25 records' in error (Muse's count, caught on verification); the file holds 26 records and its content is exactly as approved. This event is the correction of record.",
+      "type": "approval-and-population"
+    },
+    {
+      "actor": "Robert",
+      "date": "2026-11-15",
+      "ref": "data/works.json",
+      "summary": "Backfill event, appended 2026-11-16 at Robert's ruling: two works records were added to data/works.json on 2026-11-15 beyond the approved seven-work seed: Remembering You're Extraordinary (original) and Remembering You're Extraordinary, RYE 2.0, both on Robert's confirmations of that day. No event recorded them at the time; this backfill completes the history. Robert confirmed on 2026-11-16 that both records are his as they stand.",
+      "type": "backfill-works-records"
+    },
+    {
+      "actor": "Robert",
       "date": "2026-11-16",
-      "type": "one-book-ruling",
-      "actor": "Robert",
-      "summary": "Robert ruled there is only one book, Remembering You're Extraordinary, and RYE 2.0 is version 2 of that same book. The two works records were folded into one, its status carrying the version 2 note.",
-      "ref": "commit 93842d3"
+      "ref": "data/works.json",
+      "summary": "Robert ruled: there is only one book, Remembering You're Extraordinary, and RYE 2.0 is version 2 of it, not a second work. The two works records were folded into one record in data/works.json, with version 2 noted on it as in active development in Santa's Workshop. The earlier two-record state remains in this history and in the 2026-11-15 backfill event.",
+      "type": "one-book-ruling"
     },
     {
+      "actor": "Robert",
       "date": "2026-11-16",
-      "type": "workbench-marks-added",
-      "actor": "Robert (ruled); Muse (drafted, committed)",
-      "summary": "Each works record gained an explicit on_workbench mark. On the bench: Where Hearts Abide, Greystone Book I: Dorian, TSC Book I: Unraveling Darkness, The Inheritor, Joe Thoroughgood Adventures, Buttermilk Sandwitch, and Remembering You're Extraordinary through its version 2. Off the bench: The Story Standing in Front of the World, by Robert's correction replacing it with Where Hearts Abide.",
-      "ref": "commit 133bb21"
+      "ref": "data/works.json",
+      "summary": "At Robert's direction, each works record gained a simple on-the-bench mark so the Workshop page can fill itself from the records. The lineup as set by Robert: on the bench are Where Hearts Abide (his correction, replacing The Story Standing in Front of the World), Greystone Book I: Dorian, TSC Book I: Unraveling Darkness, The Inheritor, Joe Thoroughgood Adventures, Buttermilk Sandwitch, and Remembering You're Extraordinary (through version 2). Not on the bench: The Story Standing in Front of the World.",
+      "type": "workbench-marks-added"
     },
     {
       "date": "2026-11-16",
       "type": "wip-pointers-recorded",
-      "actor": "Robert (paths supplied); Muse (recorded, committed)",
-      "summary": "Work-in-progress folder pointers recorded, house pointers only, no contents: Joe Thoroughgood Adventures and Buttermilk Sandwitch works records, and The Rye House Etsy Store webworks record, each now carries its OneDrive WIP folder path. The REM Projects webworks record status was refreshed to the rendered, wired house.",
-      "ref": "commits 40eaaca, 2167d8e"
+      "actor": "Robert (locations stated); Muse (recorded)",
+      "summary": "Work-in-progress folder locations recorded as pointers on the house records, per Robert 2026-11-16: Joe Thoroughgood Adventures and Buttermilk Sandwitch WIP folders in OneDrive under _REM Current Projects / _Remy.R.Miller / D Current Projects / Substack; Etsy digital products WIP folder under D Current Projects / Etsy / Digital Products. The house holds the addresses only; the folders themselves stay in OneDrive.",
+      "ref": "data/works.json; data/webworks.json"
     },
     {
       "date": "2026-11-16",
       "type": "grynkie-production-plan-recorded",
-      "actor": "Robert (directed); Muse (recorded)",
-      "summary": "The Grynkie Treasury entered the works registry (id the-grynkie-treasury, Reported, last verified 2026-11-16) with its IngramSpark hardcover production plan: cover PDF in hand, 32 galley pages built and reviewed, print approval pending, and a 2026-11-18 production follow-up. It stands on the workbench as a print-production project, off the Santa's Workshop bench. Muse recorded the record and this event at Robert's direction in the main chat.",
-      "ref": "data/works.json: the-grynkie-treasury"
+      "actor": "Robert (authorized); Charli (recorded)",
+      "ref": "data/works.json#the-grynkie-treasury",
+      "summary": "The Grynkie Treasury added as one canonical works record, visible in Library and on Santa's Workshop bench. Book I's IngramSpark full-color hardcover plan is linked to that record and displayed in Publishing under Production & Proofs. Next: confirm print specifications and price one print-only copy; settle ISBN/imprint, prepare compliant files, then order and review one physical proof before distribution decisions. No purchase or order is recorded."
     },
     {
       "date": "2026-11-17",
       "type": "registry-work-named",
       "actor": "Robert (correction, via Creative Writing Contests); Muse (recorded)",
-      "summary": "At Robert's correction, the webworks records for the Remy Miller author site and The Rye House now name their remaining work in full, from the 2026-10-30 site audit and redesign brief, and from Robert's revisions with Charli, instead of naming only the decisions pending on them. The daily on-tap card practice was amended the same day: when a record carries named work, the card names the work.",
+      "summary": "At Robert's correction, the webworks records for the Remy Miller author site and The Rye House now name their remaining work in full. The Remy record lists the redesign work from the 2026-10-30 audit and the 2026-11-06 brief, live rechecked 2026-11-17, with scope as the only ruling still owed. The Rye House record lists the six remaining-work items from Robert's revisions conversation with Charli, supplied verbatim 2026-11-17. The daily on-tap card practice was changed at the same time: when a record carries named work, the card names the work itself, not only a decision pending on it.",
       "ref": "data/webworks.json: remy-miller-author-site, the-rye-house"
     },
     {
       "date": "2026-11-17",
       "type": "author-site-redeployed",
       "actor": "Robert",
-      "summary": "Robert rebuilt the Remy Miller author site himself as a full build, the Christmas Literary Atelier, and put it live on GitHub Pages. The long-open scope question is answered by the build. Pointing of rremymiller.com awaits his word.",
-      "ref": "https://horizontks.github.io/rremymiller/"
+      "summary": "Robert built and published the redesigned Remy Miller author site himself on 2026-11-17: a full build (home, Works catalogue of 21 works, About, Contact, Journal, RGuytano page) live on GitHub Pages as a Christmas Literary Atelier, 'Many Worlds. One Imagination.' The scope question (repair two pages or build the full site) is answered by the build. The webworks record for the author site was updated the same day; rremymiller.com stays unpointed until Robert says the redeploy is complete.",
+      "ref": "data/webworks.json: remy-miller-author-site; repo HorizonTks/rremymiller"
     },
     {
       "date": "2026-11-17",
@@ -100,5 +99,6 @@
       "summary": "The intended domain rremymiller.com was registered (the 2026-11-06 purchase had registered the transposed spelling rrmeymiller.com), its DNS pointed at GitHub Pages, and HTTPS issued and enforced the same day. remyrmiller.com was set to Permanent 301 forwarding to https://rremymiller.com with its Zoho mail records verified untouched, and rrmeymiller.com was set to Permanent 301 forwarding to the same address as a typo catcher. Redirects were still propagating at the last check.",
       "ref": "data/webworks.json: remy-miller-author-site"
     }
-  ]
+  ],
+  "schema_version": 1
 }
