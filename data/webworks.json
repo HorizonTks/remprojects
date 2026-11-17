@@ -9,7 +9,7 @@
       "name": "The REM Projects",
       "provenance": "Verified",
       "source": "Live walk and repo inventory, 2026-11-15; Robert's revised inventory, 2026-11-15",
-      "status": "Deployed. Skeleton live 2026-11-15; registries populated 2026-11-15; pages render themselves from the records and the scheduled workers are wired, both completed 2026-11-16. Domain remprojects.org to come; not a page yet."
+      "status": "Deployed. Skeleton live 2026-11-15; registries populated 2026-11-15; pages render themselves from the records and the scheduled workers are wired, both completed 2026-11-16. Domain remprojects.org owned and deliberately not pointed."
     },
     {
       "id": "horizon-technologys",
@@ -46,8 +46,8 @@
       "name": "The Rye House Etsy Store",
       "provenance": "Verified",
       "source": "Etsy Plus cancellation confirmation, 2026-11-09",
-      "status": "Deployed. Five digital guides plus the five-guide bundle; first sale 2026-10-31. Etsy Plus cancelled 2026-11-09; store stays live with no subscription.",
-      "wip_location": "OneDrive → _REM Current Projects → _Remy.R.Miller → D Current Projects → Etsy → Digital Guides"
+      "status": "Deployed. Five digital guides plus the five-guide bundle; first sale 2026-10-31. Etsy Plus ends 2026-12-07; shop front check due 2026-12-08.",
+      "wip_location": "OneDrive → _REM Current Projects → _Remy.R.Miller → D Current Projects → Etsy → Digital Products (WIP folder; published PDFs in its _Published PDFs subfolder)"
     },
     {
       "id": "the-jkm-group",
@@ -56,7 +56,7 @@
       "name": "The JKM Group",
       "provenance": "Verified",
       "source": "Site inventory, 2026-11-03",
-      "status": "Deployed. Memorial to Julia Kay Miller (1959-2023). Leave the memorial as is; excluded from any footer verification because it is a memorial site."
+      "status": "Deployed. Memorial to Julia Kay Miller (1959-2023). Leave the memorial as is; excluded from the common footer by Robert's ruling."
     },
     {
       "id": "remy-miller-author-site",
@@ -69,14 +69,13 @@
       "next_action": "Redesign work awaiting start, named in the status. Robert's ruling needed on scope only: repair the two existing pages, or build the full site."
     },
     {
-      "id": "creative-writing-contests",
+      "id": "rguytano-com",
       "last_verified": "2026-11-15",
-      "location": "https://creativewritingcontests.net",
-      "name": "Creative Writing Contests",
-      "provenance": "Verified",
-      "source": "Site inventory, 2026-11-03; Robert's corrections, 2026-11-15",
-      "status": "Deployed. Common footer live. Robert's standing rule: keep the site as a resource and not a writing project itself; leave the contests list alone and make no changes to the contest descriptions. The 2026-11-15 correction was to this REM Projects registry only, not to the site itself.",
-      "next_action": "No next action. This is a resource site, not a writing project."
+      "location": "rguytano.com (in development)",
+      "name": "RGuytano.com",
+      "provenance": "Reported",
+      "source": "Robert's listing of in-development sites, 2026-11-15",
+      "status": "In development. Art gallery type site on a very light gray ground. No brief yet."
     }
   ]
 }
