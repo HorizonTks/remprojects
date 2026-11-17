@@ -1,81 +1,81 @@
 {
-  "description": "REM Projects House web properties registry. Populated 2026-11-15 from the approved inventory.",
+  "description": "Web properties treated as first-class REM Projects assets.",
   "schema_version": 1,
   "webworks": [
     {
       "id": "the-rem-projects",
+      "last_verified": "2026-11-16",
+      "location": "https://horizontks.github.io/remprojects/",
       "name": "The REM Projects",
-      "location": "https://horizontks.github.io/remprojects/ (repo HorizonTks/remprojects)",
-      "status": "Live. House skeleton built by Robert 2026-11-15; registries populated the same day. Data rendering build completed 2026-11-16: Library, Publishing, Webworks, Workshop, and the Foyer now render from the JSON records. Sync wiring live 2026-11-16: the Submission Pit pilot wire wrote its own outcome to the ledger; Friday reconciliation and the daily on-tap card are scheduled.",
       "provenance": "Verified",
-      "source": "Live site and repo read by Muse, 2026-11-15; rendering and wiring verified live, 2026-11-16",
-      "last_verified": "2026-11-16"
+      "source": "Live walk and repo inventory, 2026-11-15; Robert's revised inventory, 2026-11-15",
+      "status": "Deployed. Skeleton live 2026-11-15; registries populated 2026-11-15; pages render themselves from the records and the scheduled workers are wired, both completed 2026-11-16. Domain remprojects.org owned and deliberately not pointed."
     },
     {
       "id": "horizon-technologys",
-      "name": "Horizon Technologys",
+      "last_verified": "2026-11-03",
       "location": "https://horizontks.com",
-      "status": "Live. Common footer in place. An 'Agentic Transaction Architecture' page went live 2026-11-16; Robert decided it is reached from the Design page and Work With Horizon, not the main navigation, and deployment of those links waits for his heads-up.",
+      "name": "Horizon Technologys",
       "provenance": "Verified",
-      "source": "Site work with Robert, 2026-11-03 and 2026-11-16",
-      "last_verified": "2026-11-16"
+      "source": "Common footer verification across all pages, 2026-11-03",
+      "status": "Deployed. Common footer live; indexing and canonical work completed October 2026."
     },
     {
-      "id": "markhamideas",
-      "name": "MarkhamIdeas.org",
+      "id": "markhamideas-org",
+      "last_verified": "2026-11-03",
       "location": "https://markhamideas.org",
-      "status": "Live. Common footer in place.",
+      "name": "MarkhamIdeas.org",
       "provenance": "Verified",
-      "source": "Site work with Robert, 2026-11-03",
-      "last_verified": "2026-11-03"
+      "source": "Common footer verification across all pages, 2026-11-03",
+      "status": "Deployed. Essays and fiction; common footer live. Also a Study research program and an emerging book project under one underlying record."
     },
     {
       "id": "the-rye-house",
-      "name": "The Rye House",
-      "location": "https://theryehouse.com",
-      "status": "Live. Common footer in place; hero tagline set 2026-11-03. Completed so far: initial website established; mobile navigation improved; Reflections page featuring 'Coherence: A Quiet Harmony of Being Yourself' with its original RGuytano artwork; archive ready to grow. Remaining work, from Robert's revisions with Charli, supplied 2026-11-17: (1) establish the identity of RYE Book I, the original published Remembering You're Extraordinary, given its rightful prominence, and Book II, the second edition, RYE 2.0, before expanding commercial material; (2) consolidate the RYE 2.0 material and decide its presentation, distinguishing the book project from individual essays and reflections, not yet finalized; (3) rebuild the content hierarchy around Books, Reflections, and About, Coherence represented appropriately, Shop secondary, revisiting homepage, navigation, and destinations; (4) develop the Coherence collection: complete 'Living Coherence: A Gentle Return to Yourself' and introduce it on the site with links to the related Substack reflections and the finished Etsy guide, its three movements How It Feels, What It Looks Like, and The Archetype of Coherence provisional; (5) integrate the five existing Etsy guides (Reflective Listening Guide, The Kind of Love We Want, Holding Grief Gently, Growing Older Beautifully, When Something No Longer Fits) into the larger RYE ecosystem without the shop dominating the site's identity; (6) continue developing Reflections: feature the newest reflection and move previous entries into The Archive on the MarkhamIdeas.org pattern, without duplicating the featured article in the archive.",
-      "provenance": "Verified",
-      "source": "Site work with Robert, 2026-11-03; remaining work text supplied by Robert, 2026-11-17 (~/workspace/user/files/RYE-House-Remaining-Work.txt)",
       "last_verified": "2026-11-17",
+      "location": "https://theryehouse.com",
+      "name": "The Rye House",
+      "provenance": "Verified",
+      "source": "Common footer verification, 2026-11-03; remaining-work plan supplied by Robert verbatim, 2026-11-17 (RYE-House-Remaining-Work.txt)",
+      "status": "Deployed. Common footer live; hero tagline set 2026-11-03. Completed: initial website established, mobile navigation improved, Reflections page featuring 'Coherence: A Quiet Harmony of Being Yourself' with its original RGuytano artwork, archive ready to grow. Remaining work, from Robert's revisions conversation with Charli, supplied verbatim 2026-11-17: (1) establish the identity of RYE Book I (the original published Remembering You're Extraordinary, given its rightful prominence) and Book II (the second edition, RYE 2.0), before expanding commercial material; (2) consolidate the RYE 2.0 material and decide its presentation, distinguishing the book project from individual essays and reflections (not yet finalized); (3) rebuild the content hierarchy around Books, Reflections, and About, with Coherence represented appropriately and the Shop secondary, revisiting homepage, navigation, and destinations; (4) develop the Coherence collection: complete 'Living Coherence: A Gentle Return to Yourself' and introduce it on the site with links to the related Substack reflections and the finished Etsy guide (the three movements How It Feels, What It Looks Like, and The Archetype of Coherence are provisional); (5) integrate the five existing Etsy guides (Reflective Listening Guide, The Kind of Love We Want, Holding Grief Gently, Growing Older Beautifully, When Something No Longer Fits) into the larger RYE ecosystem without the shop dominating the site's identity; (6) continue developing Reflections: feature the newest reflection, move previous entries into The Archive on the MarkhamIdeas.org pattern, and do not duplicate the featured article in the archive.",
       "next_action": "Remaining work awaiting start, named in the status, beginning with the identity of RYE Book I and Book II before expanding commercial material."
     },
     {
       "id": "the-rye-house-etsy",
+      "last_verified": "2026-11-16",
+      "location": "Etsy shop: TheRYEHouse",
       "name": "The Rye House Etsy Store",
-      "location": "Etsy shop TheRYEHouse",
-      "status": "Live. Five guides plus bundle. First sale 2026-10-31. Etsy Plus cancelled 2026-11-09, ends 2026-12-07; shop-front check due 2026-12-08 in case customization reverts.",
       "provenance": "Verified",
-      "source": "Etsy work with Robert through 2026-11-09",
-      "last_verified": "2026-11-09",
+      "source": "Etsy Plus cancellation confirmation, 2026-11-09",
+      "status": "Deployed. Five digital guides plus the five-guide bundle; first sale 2026-10-31. Etsy Plus ends 2026-12-07; shop front check due 2026-12-08.",
       "wip_location": "OneDrive → _REM Current Projects → _Remy.R.Miller → D Current Projects → Etsy → Digital Products (WIP folder; published PDFs in its _Published PDFs subfolder)"
     },
     {
       "id": "the-jkm-group",
-      "name": "The JKM Group",
+      "last_verified": "2026-11-03",
       "location": "https://thejkmgroup.com",
-      "status": "Memorial site for Julia Kay Miller (1959–2023). Excluded from the common footer. Robert's ruling: leave the memorial as is.",
+      "name": "The JKM Group",
       "provenance": "Verified",
-      "source": "Robert's ruling, 2026-11-03",
-      "last_verified": "2026-11-03"
+      "source": "Site inventory, 2026-11-03",
+      "status": "Deployed. Memorial to Julia Kay Miller (1959-2023). Leave the memorial as is; excluded from the common footer by Robert's ruling."
     },
     {
       "id": "remy-miller-author-site",
-      "name": "Remy Miller Author Site",
+      "last_verified": "2026-11-17",
       "location": "https://rremymiller.com (live, HTTPS enforced). remyrmiller.com permanently forwards to it. rrmeymiller.com, the transposed twin, forwards to it as a typo catcher. GitHub Pages origin: https://horizontks.github.io/rremymiller/",
-      "status": "Redeployed 2026-11-17 by Robert as a full build, the Christmas Literary Atelier, live at rremymiller.com with HTTPS enforced. remyrmiller.com was set to Permanent 301 forwarding to https://rremymiller.com on 2026-11-17, its Zoho mail records verified untouched. rrmeymiller.com, the transposed spelling registered 2026-11-06 by mistake, was set to Permanent 301 forwarding to https://rremymiller.com as a typo catcher the same day. Both forwards were still propagating at the last check on 2026-11-17.",
+      "name": "Remy Miller Author Site",
       "provenance": "Verified",
       "source": "Robert's build and his GoDaddy session, screenshots verified by Muse, 2026-11-17; DNS and HTTP checks by Muse, 2026-11-17",
-      "last_verified": "2026-11-17",
+      "status": "Redeployed 2026-11-17 by Robert as a full build, the Christmas Literary Atelier, live at rremymiller.com with HTTPS enforced. remyrmiller.com was set to Permanent 301 forwarding to https://rremymiller.com on 2026-11-17, its Zoho mail records verified untouched. rrmeymiller.com, the transposed spelling registered 2026-11-06 by mistake, was set to Permanent 301 forwarding to https://rremymiller.com as a typo catcher the same day. Both forwards were still propagating at the last check on 2026-11-17.",
       "next_action": "Verify both forwards answer publicly once propagation settles. Small items whenever Robert wants them: one em dash in the RGuytano page title; the common five-site footer row is not yet on the new site; the wall color is the atelier cream, not the shared #F7F5F4; no sitemap yet; the Christmas theme is to be revamped for Valentine's Day."
     },
     {
       "id": "rguytano-com",
+      "last_verified": "2026-11-15",
+      "location": "rguytano.com (in development)",
       "name": "RGuytano.com",
-      "location": "In development",
-      "status": "In development. Art gallery type site on a very light gray. Joins the common footer wall when it lands.",
       "provenance": "Reported",
-      "source": "Robert, 2026-11-15",
-      "last_verified": "2026-11-15"
+      "source": "Robert's listing of in-development sites, 2026-11-15",
+      "status": "In development. Art gallery type site on a very light gray ground. No brief yet."
     }
   ]
 }
