@@ -84,6 +84,13 @@
       "actor": "Robert (correction, via Creative Writing Contests); Muse (recorded)",
       "summary": "At Robert's correction, the webworks records for the Remy Miller author site and The Rye House now name their remaining work in full. The Remy record lists the redesign work from the 2026-10-30 audit and the 2026-11-06 brief, live rechecked 2026-11-17, with scope as the only ruling still owed. The Rye House record lists the six remaining-work items from Robert's revisions conversation with Charli, supplied verbatim 2026-11-17. The daily on-tap card practice was changed at the same time: when a record carries named work, the card names the work itself, not only a decision pending on it.",
       "ref": "data/webworks.json: remy-miller-author-site, the-rye-house"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "author-site-redeployed",
+      "actor": "Robert",
+      "summary": "Robert built and published the redesigned Remy Miller author site himself on 2026-11-17: a full build (home, Works catalogue of 21 works, About, Contact, Journal, RGuytano page) live on GitHub Pages as a Christmas Literary Atelier, 'Many Worlds. One Imagination.' The scope question (repair two pages or build the full site) is answered by the build. The webworks record for the author site was updated the same day; rremymiller.com stays unpointed until Robert says the redeploy is complete.",
+      "ref": "data/webworks.json: remy-miller-author-site; repo HorizonTks/rremymiller"
     }
   ],
   "schema_version": 1
