@@ -61,12 +61,12 @@
     {
       "id": "remy-miller-author-site",
       "last_verified": "2026-11-17",
-      "location": "https://remyrmiller.com (current); rremymiller.com (registered 2026-11-06, not yet pointed)",
+      "location": "https://horizontks.github.io/rremymiller/ (new site, built 2026-11-17); https://remyrmiller.com (current old site); rremymiller.com (registered 2026-11-06, not yet pointed)",
       "name": "Remy Miller Author Site",
       "provenance": "Verified",
-      "source": "Site audit 2026-10-30; redesign brief 2026-11-06; live recheck 2026-11-17",
-      "status": "In development. Redesign work named from the 2026-10-30 audit and the 2026-11-06 brief, live rechecked 2026-11-17: repair the 'exitence' typo and the other content errors; remove em dashes throughout (they run through the current copy, against Robert's standing no-em-dash rule); give Greystone and Buttermilk Sandwich their place (neither appears on the homepage today); working navigation and constant header identity; light background #F7F5F4; proper heading structure and page titles; finished footer (the common footer with the gold spiral and rose mark); a contact route; cross-links. Settled: rremymiller.com stays unpointed until the redeploy is complete. Awaiting Robert's ruling on scope only: repair the two existing pages, or build the full site (works index, Contact page, sitemap).",
-      "next_action": "Redesign work awaiting start, named in the status. Robert's ruling needed on scope only: repair the two existing pages, or build the full site."
+      "source": "Robert's build, repo HorizonTks/rremymiller, 2026-11-17; live read by Muse, 2026-11-17",
+      "status": "Redeployed site built by Robert on 2026-11-17 and live on GitHub Pages as a Christmas Literary Atelier, 'Many Worlds. One Imagination.' Full build, not the two-page repair: home, a Works catalogue of 21 works, About, Contact, Journal, and an RGuytano page. Greystone: Dorian and Buttermilk Sandwitch have their place, and the 'exitence' typo and the em dashes are gone from the new homepage. The scope question is answered by the build itself: the full site. Still to come: pointing rremymiller.com at the new site when Robert says the redeploy is complete; the old remyrmiller.com site remains live until then.",
+      "next_action": "Awaiting Robert's word to point rremymiller.com at the new GitHub Pages site. Review the new site in the meantime."
     },
     {
       "id": "rguytano-com",
