@@ -98,6 +98,13 @@
       "actor": "Robert (GoDaddy, guided by Muse)",
       "summary": "The intended domain rremymiller.com was registered (the 2026-11-06 purchase had registered the transposed spelling rrmeymiller.com), its DNS pointed at GitHub Pages, and HTTPS issued and enforced the same day. remyrmiller.com was set to Permanent 301 forwarding to https://rremymiller.com with its Zoho mail records verified untouched, and rrmeymiller.com was set to Permanent 301 forwarding to the same address as a typo catcher. Redirects were still propagating at the last check.",
       "ref": "data/webworks.json: remy-miller-author-site"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "author-site-forwards-verified",
+      "actor": "Muse (verified)",
+      "summary": "Both GoDaddy forwards verified live from the public internet on 2026-11-17: remyrmiller.com and rrmeymiller.com each answer with a permanent redirect to https://rremymiller.com, and rremymiller.com serves over enforced HTTPS. The domain work begun that afternoon is complete.",
+      "ref": "data/webworks.json: remy-miller-author-site"
     }
   ],
   "schema_version": 1
