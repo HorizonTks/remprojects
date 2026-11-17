@@ -65,8 +65,8 @@
       "name": "Remy Miller Author Site",
       "provenance": "Verified",
       "source": "Robert's build and his GoDaddy session, screenshots verified by Muse, 2026-11-17; DNS and HTTP checks by Muse, 2026-11-17",
-      "status": "Redeployed 2026-11-17 by Robert as a full build, the Christmas Literary Atelier, live at rremymiller.com with HTTPS enforced. remyrmiller.com was set to Permanent 301 forwarding to https://rremymiller.com on 2026-11-17, its Zoho mail records verified untouched. rrmeymiller.com, the transposed spelling registered 2026-11-06 by mistake, was set to Permanent 301 forwarding to https://rremymiller.com as a typo catcher the same day. Both forwards were still propagating at the last check on 2026-11-17.",
-      "next_action": "Verify both forwards answer publicly once propagation settles. Small items whenever Robert wants them: one em dash in the RGuytano page title; the common five-site footer row is not yet on the new site; the wall color is the atelier cream, not the shared #F7F5F4; no sitemap yet; the Christmas theme is to be revamped for Valentine's Day."
+      "status": "Redeployed 2026-11-17 by Robert as a full build, the Christmas Literary Atelier, live at rremymiller.com with HTTPS enforced. remyrmiller.com was set to Permanent 301 forwarding to https://rremymiller.com on 2026-11-17, its Zoho mail records verified untouched. rrmeymiller.com, the transposed spelling registered 2026-11-06 by mistake, was set to Permanent 301 forwarding to https://rremymiller.com as a typo catcher the same day. Both forwards verified answering publicly on 2026-11-17: remyrmiller.com and rrmeymiller.com each return a permanent redirect to https://rremymiller.com.",
+      "next_action": "Small items whenever Robert wants them: one em dash in the RGuytano page title; the common five-site footer row is not yet on the new site; the wall color is the atelier cream, not the shared #F7F5F4; no sitemap yet; the Christmas theme is to be revamped for Valentine's Day."
     },
     {
       "id": "rguytano-com",
