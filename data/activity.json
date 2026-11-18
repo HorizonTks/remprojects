@@ -112,6 +112,20 @@
       "actor": "Robert",
       "summary": "Robert corrected the Rye book identities: Book I is 'How to Survive 45', subtitled 'Remembering You're Extraordinary', published on KDP in 2017. Book II, in progress, is titled 'Remembering You're Extraordinary'. The works record and The Rye House webworks record now carry the corrected identities; earlier wording that titled the original itself Remembering You're Extraordinary, and called RYE 2.0 its version 2, is superseded.",
       "ref": "data/works.json: remembering-youre-extraordinary; data/webworks.json: the-rye-house"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "thank-you-sent",
+      "actor": "Robert (directed); Muse (sent)",
+      "summary": "Thank-you note to Mark Danowsky at ONE ART, for the prompt and kind pass on 'Where the Words Had Been', was revised at Robert's direction (em dashes removed) and sent 2026-11-18 from robert@horizontks.com, verified in Sent Items. The original reply thread could not be reached in the rebuilt business mailbox, so the note went as a fresh message under the submission's own subject line.",
+      "ref": "data/submissions.json: where-the-words-had-been-one-art"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "author-site-footer-and-catalogue",
+      "actor": "Robert (directed); Muse (deployed)",
+      "summary": "At Robert's direction: the Spiral Empire pair footer went live on every page of rremymiller.com and in its generator build.py; the RGuytano page title em dash became a colon; the Remembering You're Extraordinary entry was aligned (Book I 'How to Survive 45', KDP 2017; Book II in progress) with a 'Book I on Amazon' link; and the Remy and RGuytano icons were added to the existing common footer rows on horizontks.com (11 pages), markhamideas.org (14 pages), and theryehouse.com (2 pages). All verified live the same day.",
+      "ref": "data/webworks.json: remy-miller-author-site"
     }
   ],
   "schema_version": 1
