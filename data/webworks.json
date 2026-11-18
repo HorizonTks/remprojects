@@ -60,13 +60,13 @@
     },
     {
       "id": "remy-miller-author-site",
-      "last_verified": "2026-11-17",
+      "last_verified": "2026-11-18",
       "location": "https://rremymiller.com (live, HTTPS enforced). remyrmiller.com permanently forwards to it. rrmeymiller.com, the transposed twin, forwards to it as a typo catcher. GitHub Pages origin: https://horizontks.github.io/rremymiller/",
       "name": "Remy Miller Author Site",
       "provenance": "Verified",
       "source": "Robert's build and his GoDaddy session, screenshots verified by Muse, 2026-11-17; DNS and HTTP checks by Muse, 2026-11-17",
-      "status": "Redeployed 2026-11-17 by Robert as a full build, the Christmas Literary Atelier, live at rremymiller.com with HTTPS enforced. remyrmiller.com was set to Permanent 301 forwarding to https://rremymiller.com on 2026-11-17, its Zoho mail records verified untouched. rrmeymiller.com, the transposed spelling registered 2026-11-06 by mistake, was set to Permanent 301 forwarding to https://rremymiller.com as a typo catcher the same day. Both forwards verified answering publicly on 2026-11-17: remyrmiller.com and rrmeymiller.com each return a permanent redirect to https://rremymiller.com.",
-      "next_action": "Small items whenever Robert wants them: one em dash in the RGuytano page title; the common five-site footer row is not yet on the new site; the wall color is the atelier cream, not the shared #F7F5F4; no sitemap yet; the Christmas theme is to be revamped for Valentine's Day."
+      "status": "Redeployed 2026-11-17 by Robert as a full build, the Christmas Literary Atelier, live at rremymiller.com with HTTPS enforced. remyrmiller.com was set to Permanent 301 forwarding to https://rremymiller.com on 2026-11-17, its Zoho mail records verified untouched. rrmeymiller.com, the transposed spelling registered 2026-11-06 by mistake, was set to Permanent 301 forwarding to https://rremymiller.com as a typo catcher the same day. Both forwards verified answering publicly on 2026-11-17: remyrmiller.com and rrmeymiller.com each return a permanent redirect to https://rremymiller.com. On 2026-11-18 the Spiral Empire pair footer was deployed on every page of the atelier and in its generator (build.py), the RGuytano page title em dash became a colon ('RGuytano: Art & Music'), and the Remembering You're Extraordinary catalogue entry was aligned with Robert's correction: Book I is 'How to Survive 45' (KDP, 2017), Book II 'Remembering You're Extraordinary' is in progress, with a 'Book I on Amazon' link added on the work's page. The same day, the Remy spiral-rose and RGuytano icons were added to the existing common footer rows on horizontks.com, markhamideas.org, and theryehouse.com.",
+      "next_action": "Remaining small items whenever Robert wants them: no sitemap yet; the wall color is the atelier cream, not the shared #F7F5F4; the Christmas theme is to be revamped for Valentine's Day."
     },
     {
       "id": "rguytano-com",
