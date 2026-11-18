@@ -126,6 +126,13 @@
       "actor": "Robert (directed); Muse (deployed)",
       "summary": "At Robert's direction: the Spiral Empire pair footer went live on every page of rremymiller.com and in its generator build.py; the RGuytano page title em dash became a colon; the Remembering You're Extraordinary entry was aligned (Book I 'How to Survive 45', KDP 2017; Book II in progress) with a 'Book I on Amazon' link; and the Remy and RGuytano icons were added to the existing common footer rows on horizontks.com (11 pages), markhamideas.org (14 pages), and theryehouse.com (2 pages). All verified live the same day.",
       "ref": "data/webworks.json: remy-miller-author-site"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "submission-query-sent",
+      "actor": "Robert (directed; address supplied); Muse (sent)",
+      "summary": "Follow-up query on 'The Inheritor' sent 2026-11-18 from RRemyMiller@outlook.com to editor@havenspec.com, the address Robert supplied, verified in Sent Items. Haven Spec's published route is a reply to the submission confirmation email, which Muse's mail access cannot reach; the query went as a fresh message carrying the title and the August 22, 2026 submission date.",
+      "ref": "data/submissions.json: inheritor-haven-spec"
     }
   ],
   "schema_version": 1
