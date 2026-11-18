@@ -1,6 +1,12 @@
 {
   "schema_version": 1,
-  "provenance_states": ["Verified", "Reported", "Inferred", "Inaccessible", "Unknown"],
+  "provenance_states": [
+    "Verified",
+    "Reported",
+    "Inferred",
+    "Inaccessible",
+    "Unknown"
+  ],
   "description": "Publishing ledger records. Never convert inaccessible or unknown status into an inferred active state without evidence.",
   "submissions": [
     {
@@ -102,10 +108,10 @@
       "market_type": "Journal",
       "status": "Returned (passed) 2026-10-21, with a kind, prompt note.",
       "date_submitted": "2026-10-21",
-      "next_action": "Thank-you note drafted 2026-10-22, still awaiting Robert's approval; nothing sent.",
+      "next_action": "Thank-you note revised and sent 2026-11-18 from robert@horizontks.com, at Robert's direction. Nothing further owed here; the poem is at Braided Way in the three-poem packet.",
       "provenance": "Verified",
       "source": "Editor's reply received 2026-10-21",
-      "last_verified": "2026-10-21"
+      "last_verified": "2026-11-18"
     },
     {
       "id": "trouble-with-time-submission-pit",
