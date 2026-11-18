@@ -105,6 +105,13 @@
       "actor": "Muse (verified)",
       "summary": "Both GoDaddy forwards verified live from the public internet on 2026-11-17: remyrmiller.com and rrmeymiller.com each answer with a permanent redirect to https://rremymiller.com, and rremymiller.com serves over enforced HTTPS. The domain work begun that afternoon is complete.",
       "ref": "data/webworks.json: remy-miller-author-site"
+    },
+    {
+      "date": "2026-11-18",
+      "type": "rye-book-identities-corrected",
+      "actor": "Robert",
+      "summary": "Robert corrected the Rye book identities: Book I is 'How to Survive 45', subtitled 'Remembering You're Extraordinary', published on KDP in 2017. Book II, in progress, is titled 'Remembering You're Extraordinary'. The works record and The Rye House webworks record now carry the corrected identities; earlier wording that titled the original itself Remembering You're Extraordinary, and called RYE 2.0 its version 2, is superseded.",
+      "ref": "data/works.json: remembering-youre-extraordinary; data/webworks.json: the-rye-house"
     }
   ],
   "schema_version": 1
