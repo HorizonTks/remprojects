@@ -154,6 +154,13 @@
    "actor": "Charli / Robert (deployed); Muse (verified)",
    "summary": "The complete RGuytano emblem is live on both public faces: as the hero on the rguytano.com landing page (assets/rg-emblem.png) and on the atelier's RGuytano page (assets/rguytano-emblem.png). Muse downloaded both files and compared them against the settled master: pixel-identical. The orbits-only emblem remains on neither face. The rguytano-com webworks record was updated from in-development to live (under-construction landing) the same day.",
    "ref": "data/webworks.json: rguytano-com"
+  },
+  {
+   "date": "2026-11-19",
+   "type": "works-added-to-library",
+   "actor": "Robert (directed); Muse (recorded)",
+   "summary": "Two short stories given Library records at Robert's direction: 'A World of Sovereign Authors' (complete, v6, 3,355 words; already in the Ledger for its 2026-11-09 After the Fire submission, whose entry now links to the new works record) and 'The Night the River Remembers' (complete, 2,379 words; its first submission, attempted 2026-11-19 via Moksha to the Android Press Lunarpunk anthology, stands unconfirmed after a bot check, so it carries no Ledger entry until confirmation). The Library now holds 11 works.",
+   "ref": "data/works.json: a-world-of-sovereign-authors, the-night-the-river-remembers"
   }
  ],
  "schema_version": 1
