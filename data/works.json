@@ -109,6 +109,26 @@
     "provenance": "Reported",
     "last_verified": "2026-11-16"
    }
+  },
+  {
+   "form": "Short story",
+   "id": "a-world-of-sovereign-authors",
+   "last_verified": "2026-11-19",
+   "provenance": "Verified",
+   "source": "Submitted to the After the Fire anthology 2026-11-09, verified in Sent Items; added to the Library at Robert's direction, 2026-11-19",
+   "status": "Complete (v6, 3,355 words). Out on submission to the After the Fire anthology (Apex / Ray Bradbury Center), submitted 2026-11-09; reading window 2027-02-01 to 2027-03-31, all authors contacted by 2027-04-30.",
+   "title": "A World of Sovereign Authors",
+   "on_workbench": false
+  },
+  {
+   "form": "Short story",
+   "id": "the-night-the-river-remembers",
+   "last_verified": "2026-11-19",
+   "provenance": "Verified",
+   "source": "Manuscript supplied by Robert, 2026-11-19; submission attempt recorded in the Creative Writing Contests thread, 2026-11-19; added to the Library at Robert's direction, 2026-11-19",
+   "status": "Complete (2,379 words). First submission attempted 2026-11-19, to the Android Press anthology 'What Blooms in Darkness: A Lunarpunk Anthology' via Moksha; a bot check intervened after the submit click and no confirmation was received, so the submission stands unconfirmed and carries no Ledger entry yet. A recheck and, if needed, a note to the editor are set for the evening of 2026-11-19.",
+   "title": "The Night the River Remembers",
+   "on_workbench": false
   }
  ]
 }
