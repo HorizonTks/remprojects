@@ -140,6 +140,13 @@
    "actor": "Robert",
    "summary": "Robert clarified the Remembering You're Extraordinary record: there is only one book in progress, the redux. Book I, 'How to Survive 45', subtitled 'Remembering You're Extraordinary', is the published book (KDP, 2017). The works record and The Rye House webworks record were updated the same day; the Rye House remaining-work item (1) now begins with giving Book I its rightful prominence, the identities being settled.",
    "ref": "works: remembering-youre-extraordinary; webworks: the-rye-house"
+  },
+  {
+   "date": "2026-11-19",
+   "type": "emblem-system-settled",
+   "actor": "Robert",
+   "summary": "RGuytano emblem system settled: Charli's deployed orbit emblem and Robert's gold-clef-on-green instinct were married into a bookplate master emblem (gold orbits and eighth note on deep green, Robert's RG monogram at the center, 'Color & Sound' as tagline). Small tile and favicon derived by crop from the master; Robert chose favicon v3 (with the TM) on 2026-11-19. Files held in Muse's site-footer assets; deployment waits on the rguytano.com build.",
+   "ref": "data/webworks.json: rguytano-com"
   }
  ],
  "schema_version": 1
