@@ -70,12 +70,12 @@
   },
   {
    "id": "rguytano-com",
-   "last_verified": "2026-11-15",
+   "last_verified": "2026-11-19",
    "location": "rguytano.com (in development)",
    "name": "RGuytano.com",
    "provenance": "Reported",
-   "source": "Robert's listing of in-development sites, 2026-11-15",
-   "status": "In development. Art gallery type site on a very light gray ground. No brief yet."
+   "source": "Robert's listing of in-development sites, 2026-11-15; emblem system settled with Robert, 2026-11-18/19",
+   "status": "In development. Art gallery type site on a very light gray ground. Emblem system settled 2026-11-19: the master emblem is the gold-orbits bookplate on deep green with the RG monogram at its center and a gold eighth note at the crown (Charli's orbit geometry, Robert's deep green and his own RG monogram); 'Color & Sound' serves as the tagline, not part of the mark. A small tile and a favicon were derived from the master by crop; Robert chose favicon v3, the version keeping the TM, on 2026-11-19. Master, tile, and favicon files are held in Muse's site-footer assets, ready for deployment. No brief yet for the site itself."
   }
  ]
 }
