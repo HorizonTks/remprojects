@@ -147,6 +147,13 @@
    "actor": "Robert",
    "summary": "RGuytano emblem system settled: Charli's deployed orbit emblem and Robert's gold-clef-on-green instinct were married into a bookplate master emblem (gold orbits and eighth note on deep green, Robert's RG monogram at the center, 'Color & Sound' as tagline). Small tile and favicon derived by crop from the master; Robert chose favicon v3 (with the TM) on 2026-11-19. Files held in Muse's site-footer assets; deployment waits on the rguytano.com build.",
    "ref": "data/webworks.json: rguytano-com"
+  },
+  {
+   "date": "2026-11-19",
+   "type": "emblem-deployed",
+   "actor": "Charli / Robert (deployed); Muse (verified)",
+   "summary": "The complete RGuytano emblem is live on both public faces: as the hero on the rguytano.com landing page (assets/rg-emblem.png) and on the atelier's RGuytano page (assets/rguytano-emblem.png). Muse downloaded both files and compared them against the settled master: pixel-identical. The orbits-only emblem remains on neither face. The rguytano-com webworks record was updated from in-development to live (under-construction landing) the same day.",
+   "ref": "data/webworks.json: rguytano-com"
   }
  ],
  "schema_version": 1
