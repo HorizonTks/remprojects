@@ -175,6 +175,13 @@
    "actor": "Robert (asked); Muse (read and assessed)",
    "summary": "At Robert's question whether the RYE redux is enough, and good enough, to begin agent queries, Muse read the complete draft in the shared 'Ready For Final Edits (RYE 2.0)' folder: 13 chapters plus introduction, about 33,500 words. Verdict delivered 2026-11-20: enough, yes; quality, the reflective chapters (introduction, Chapters 4, 7, 13) are in his mature voice and strong, but Chapters 1 and 2 and parts of Chapter 8 still read in an earlier essay voice with quotation scaffolding, an editor's note sits embedded in Chapter 1, 31 em dashes stand against his rule, and the table of contents and about-the-author pages are empty. A unifying final-edit pass is the remaining work before queries; the works record was updated to say so.",
    "ref": "data/works.json: remembering-youre-extraordinary"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "new-book-determined",
+   "actor": "Robert (asked); Muse (compared and reported)",
+   "summary": "Robert shared Book I, 'How to Survive 45' (KDP, 2017), and asked whether the current book is a new book or a version of it. Muse compared the full texts: the redux's verbatim overlap with Book I is under 1 percent (8-word runs), its 13 reflective chapters stand under a remembering and coherence frame Book I does not have, Book I's 15 chapters are a co-authored coaching book (with Nancy Miller Young) in two parts with affirmations, and the new book is Robert's alone and includes chapters that postdate Book I, Grief among them. Book I's title page reads 'How to Survive 45 (The Survivor's Handbook)'; 'Remembering You're Extraordinary' was its working title and never appeared on the published book. Verdict delivered 2026-11-20: a new book that grows from Book I's principles, not a new edition; 'version 2' was a folder designation only. The works record was corrected and updated to say so.",
+   "ref": "data/works.json: remembering-youre-extraordinary"
   }
  ],
  "schema_version": 1
