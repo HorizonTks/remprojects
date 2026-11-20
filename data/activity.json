@@ -182,6 +182,13 @@
    "actor": "Robert (asked); Muse (compared and reported)",
    "summary": "Robert shared Book I, 'How to Survive 45' (KDP, 2017), and asked whether the current book is a new book or a version of it. Muse compared the full texts: the redux's verbatim overlap with Book I is under 1 percent (8-word runs), its 13 reflective chapters stand under a remembering and coherence frame Book I does not have, Book I's 15 chapters are a co-authored coaching book (with Nancy Miller Young) in two parts with affirmations, and the new book is Robert's alone and includes chapters that postdate Book I, Grief among them. Book I's title page reads 'How to Survive 45 (The Survivor's Handbook)'; 'Remembering You're Extraordinary' was its working title and never appeared on the published book. Verdict delivered 2026-11-20: a new book that grows from Book I's principles, not a new edition; 'version 2' was a folder designation only. The works record was corrected and updated to say so.",
    "ref": "data/works.json: remembering-youre-extraordinary"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "catalogue-aligned",
+   "actor": "Robert (directed); Muse (deployed and verified)",
+   "summary": "At Robert's direction, the Remy Miller author site catalogue was aligned to Book I as published: the Remembering You're Extraordinary entry in data/catalogue.json, its detail page, and build.py now read 'Book I, How to Survive 45 (The Survivor's Handbook), was published on KDP in 2017. Book II, Remembering You're Extraordinary, is in progress: a new book growing from the first book's principles, not a new edition of it.' (commits 490af0c, 1a82480, 631addc in HorizonTks/rremymiller; verified live the same day). The Works page card carried no wrong subtitle and was untouched.",
+   "ref": "data/webworks.json: remy-miller-author-site"
   }
  ],
  "schema_version": 1
