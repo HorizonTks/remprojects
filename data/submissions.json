@@ -236,12 +236,12 @@
    "work_title": "Both Sides at Once",
    "market": "The Sun",
    "market_type": "Journal",
-   "status": "Active per the tracker as of 2026-08-14; unverified since.",
-   "date_submitted": null,
-   "next_action": "Re-verify against Submittable at the next reconciliation; status has not been checked since 2026-08-14.",
-   "provenance": "Reported",
-   "source": "Master_Submission_Tracker, verified against Submittable Active screen 2026-08-14; not re-verified since",
-   "last_verified": "2026-08-14"
+   "status": "Declined by The Sun; submitted 2026-08-10.",
+   "date_submitted": "2026-08-10",
+   "next_action": "Closed, no further action.",
+   "provenance": "Verified",
+   "source": "Submittable Declined list read 2026-11-20",
+   "last_verified": "2026-11-20"
   },
   {
    "id": "tracker-the-becoming-emergence",
@@ -249,12 +249,12 @@
    "work_title": "The Becoming",
    "market": "Emergence",
    "market_type": "Journal",
-   "status": "Active per the tracker as of 2026-08-14; unverified since.",
+   "status": "Not found on Submittable as of 2026-11-20, in neither the Active nor the Declined list; no sent submission located in mail either. Whether it was ever submitted is unverified.",
    "date_submitted": null,
-   "next_action": "Re-verify at the next reconciliation.",
-   "provenance": "Reported",
-   "source": "Master_Submission_Tracker, verified 2026-08-14; not re-verified since",
-   "last_verified": "2026-08-14"
+   "next_action": "Needs Robert's ruling: confirm whether The Becoming was ever sent to Emergence, and by what route.",
+   "provenance": "Verified",
+   "source": "Submittable full-list search 2026-11-20 (38 submissions: 2 Active, 36 Declined); mail search found no send",
+   "last_verified": "2026-11-20"
   },
   {
    "id": "tracker-dishwasher-mcsweeneys",
@@ -262,12 +262,12 @@
    "work_title": "The Great Dishwasher Door Edge Conspiracy",
    "market": "McSweeney's",
    "market_type": "Journal",
-   "status": "Active per the tracker as of 2026-08-14; unverified since.",
-   "date_submitted": null,
-   "next_action": "Re-verify at the next reconciliation.",
-   "provenance": "Reported",
-   "source": "Master_Submission_Tracker, verified 2026-08-14; not re-verified since",
-   "last_verified": "2026-08-14"
+   "status": "Submitted by email 2026-08-14 to websubmissions@mcsweeneys.net; outcome unknown, no reply found in mail.",
+   "date_submitted": "2026-08-14",
+   "next_action": "Await decision; query McSweeney's only at Robert's direction.",
+   "provenance": "Verified",
+   "source": "Sent Items, two sends 2026-08-14; Submittable search 2026-11-20 found no record (email route, not Submittable)",
+   "last_verified": "2026-11-20"
   },
   {
    "id": "tracker-mars-mcsweeneys",
@@ -275,12 +275,12 @@
    "work_title": "The Complete Visitor's Guide to Mars on 10¢ a Day",
    "market": "McSweeney's",
    "market_type": "Journal",
-   "status": "Awaiting per our records; unverified since sent.",
+   "status": "Not found on Submittable as of 2026-11-20, in neither the Active nor the Declined list; no sent submission located in mail either. Whether it was ever submitted is unverified.",
    "date_submitted": null,
-   "next_action": "Re-verify at the next reconciliation.",
-   "provenance": "Reported",
-   "source": "Master_Submission_Tracker; awaiting, unverified since sent",
-   "last_verified": "2026-08-14"
+   "next_action": "Needs Robert's ruling: confirm whether the Mars piece was ever sent to McSweeney's.",
+   "provenance": "Verified",
+   "source": "Submittable full-list search 2026-11-20; mail search found no send",
+   "last_verified": "2026-11-20"
   },
   {
    "id": "tracker-sovereign-pause-elephant",
@@ -288,12 +288,12 @@
    "work_title": "The Sovereign Pause",
    "market": "Elephant Journal",
    "market_type": "Journal",
-   "status": "Awaiting per our records; unverified since sent.",
+   "status": "Not found on Submittable as of 2026-11-20; Elephant Journal does not take submissions through Submittable, so this absence proves nothing about the submission itself. No sent submission located in mail either.",
    "date_submitted": null,
-   "next_action": "Re-verify at the next reconciliation.",
-   "provenance": "Reported",
-   "source": "Master_Submission_Tracker; awaiting, unverified since sent",
-   "last_verified": "2026-08-14"
+   "next_action": "Needs Robert's ruling: confirm whether The Sovereign Pause was sent to Elephant Journal, and by what route.",
+   "provenance": "Verified",
+   "source": "Submittable full-list search 2026-11-20; mail search found no send",
+   "last_verified": "2026-11-20"
   },
   {
    "id": "tracker-nearer-to-the-vast-image",
@@ -301,12 +301,12 @@
    "work_title": "Nearer to the Vast (poem)",
    "market": "Image Journal",
    "market_type": "Journal",
-   "status": "Active per the tracker as of 2026-08-14; unverified since.",
-   "date_submitted": null,
-   "next_action": "Re-verify at the next reconciliation.",
-   "provenance": "Reported",
-   "source": "Master_Submission_Tracker, verified 2026-08-14; not re-verified since",
-   "last_verified": "2026-08-14"
+   "status": "Active, In-Progress on Submittable.",
+   "date_submitted": "2026-08-04",
+   "next_action": "Await decision.",
+   "provenance": "Verified",
+   "source": "Submittable Active list read 2026-11-20",
+   "last_verified": "2026-11-20"
   },
   {
    "id": "tracker-entangled-in-love-poetry",
@@ -314,12 +314,12 @@
    "work_title": "Entangled in Love (poem)",
    "market": "POETRY",
    "market_type": "Journal",
-   "status": "Active per the tracker as of 2026-08-14; unverified since.",
-   "date_submitted": null,
-   "next_action": "Re-verify at the next reconciliation.",
-   "provenance": "Reported",
-   "source": "Master_Submission_Tracker, verified 2026-08-14; not re-verified since",
-   "last_verified": "2026-08-14"
+   "status": "Declined by POETRY Magazine; was In-Progress on 2026-10-21, found Declined 2026-11-20.",
+   "date_submitted": "2025-10-24",
+   "next_action": "Closed, no further action.",
+   "provenance": "Verified",
+   "source": "Submittable Declined list read 2026-11-20",
+   "last_verified": "2026-11-20"
   },
   {
    "id": "tracker-remy-miller-5-new-yorker",
@@ -327,12 +327,12 @@
    "work_title": "Remy Miller 5 (poems)",
    "market": "The New Yorker Poetry",
    "market_type": "Journal",
-   "status": "Active per the tracker as of 2026-08-14; unverified since.",
-   "date_submitted": null,
-   "next_action": "Re-verify at the next reconciliation.",
-   "provenance": "Reported",
-   "source": "Master_Submission_Tracker, verified 2026-08-14; not re-verified since",
-   "last_verified": "2026-08-14"
+   "status": "Active, Received on Submittable (submitted 2025-08-02; apparently never opened).",
+   "date_submitted": "2025-08-02",
+   "next_action": "Await decision.",
+   "provenance": "Verified",
+   "source": "Submittable Active list read 2026-11-20",
+   "last_verified": "2026-11-20"
   },
   {
    "id": "tracker-myth-rotting-horizon-sun",
@@ -340,12 +340,25 @@
    "work_title": "Myth of the Rotting Horizon",
    "market": "The Sun",
    "market_type": "Journal",
-   "status": "No Longer Active per the tracker; disposition unverified.",
-   "date_submitted": null,
-   "next_action": "Establish the disposition at the next reconciliation; this is the ledger's standing example of an unresolved record.",
-   "provenance": "Reported",
-   "source": "Master_Submission_Tracker, 2026-08-14",
-   "last_verified": "2026-08-14"
+   "status": "Declined by The Sun; submitted 2026-03-19.",
+   "date_submitted": "2026-03-19",
+   "next_action": "Closed, no further action. The standing unresolved record is now resolved.",
+   "provenance": "Verified",
+   "source": "Submittable Declined list read 2026-11-20",
+   "last_verified": "2026-11-20"
+  },
+  {
+   "id": "entangled-in-love-rumpus",
+   "work_id": null,
+   "work_title": "Entangled in Love (essay)",
+   "market": "The Rumpus",
+   "market_type": "Journal",
+   "status": "Declined.",
+   "date_submitted": "2025-07-23",
+   "next_action": "Closed, no further action.",
+   "provenance": "Verified",
+   "source": "Submittable full-list search 2026-11-20",
+   "last_verified": "2026-11-20"
   }
  ]
 }
