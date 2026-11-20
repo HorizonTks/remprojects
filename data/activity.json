@@ -189,6 +189,62 @@
    "actor": "Robert (directed); Muse (deployed and verified)",
    "summary": "At Robert's direction, the Remy Miller author site catalogue was aligned to Book I as published: the Remembering You're Extraordinary entry in data/catalogue.json, its detail page, and build.py now read 'Book I, How to Survive 45 (The Survivor's Handbook), was published on KDP in 2017. Book II, Remembering You're Extraordinary, is in progress: a new book growing from the first book's principles, not a new edition of it.' (commits 490af0c, 1a82480, 631addc in HorizonTks/rremymiller; verified live the same day). The Works page card carried no wrong subtitle and was untouched.",
    "ref": "data/webworks.json: remy-miller-author-site"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "submission-declined",
+   "actor": "Muse (Friday reconciliation)",
+   "summary": "Both Sides at Once to The Sun, submitted 2026-08-10, confirmed Declined on Submittable's Declined list. Ledger record updated: status Declined, closed.",
+   "ref": "data/submissions.json: tracker-both-sides-at-once-sun"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "submission-declined",
+   "actor": "Muse (Friday reconciliation)",
+   "summary": "Myth of the Rotting Horizon to The Sun, submitted 2026-03-19, confirmed Declined on Submittable's Declined list. The ledger's standing unresolved record is now resolved; status Declined, closed.",
+   "ref": "data/submissions.json: tracker-myth-rotting-horizon-sun"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "submission-declined",
+   "actor": "Muse (Friday reconciliation)",
+   "summary": "Entangled In Love to POETRY Magazine, submitted 2025-10-24, confirmed Declined on Submittable's Declined list. It was In-Progress at the 2026-10-21 audit, so the decline came between then and now; the exact decline date is not shown. Status Declined, closed.",
+   "ref": "data/submissions.json: tracker-entangled-in-love-poetry"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "submissions-reverified-active",
+   "actor": "Muse (Friday reconciliation)",
+   "summary": "Two submissions confirmed still Active on Submittable: Nearer to the Vast (Four related poems) to Image Journal, submitted 2026-08-04, In-Progress; and Remy Miller 5 to The New Yorker, submitted 2025-08-02, Received. Ledger records updated with dates and today's verification.",
+   "ref": "data/submissions.json: tracker-nearer-to-the-vast-image, tracker-remy-miller-5-new-yorker"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "submission-route-clarified",
+   "actor": "Muse (Friday reconciliation)",
+   "summary": "The Great Dishwasher Door Edge Conspiracy to McSweeney's was submitted by email, not Submittable: two sends to websubmissions@mcsweeneys.net on 2026-08-14, found in Sent Items. That explains its absence from Submittable. Outcome unknown, no reply found; status updated to email-submitted, awaiting decision.",
+   "ref": "data/submissions.json: tracker-dishwasher-mcsweeneys"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "submissions-not-found",
+   "actor": "Muse (Friday reconciliation)",
+   "summary": "Three tracker records were not found on Submittable at all (full-list searches, 38 submissions total: 2 Active, 36 Declined) and no sent submission was located in mail for any of them: The Becoming to Emergence, The Complete Visitor's Guide to Mars on 10 cents a Day to McSweeney's, and The Sovereign Pause to Elephant Journal. None was converted to an active state; each record now states the absence and asks for Robert's ruling on whether it was ever sent, and by what route.",
+   "ref": "data/submissions.json: tracker-the-becoming-emergence, tracker-mars-mcsweeneys, tracker-sovereign-pause-elephant"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "submission-record-added",
+   "actor": "Muse (Friday reconciliation)",
+   "summary": "A submission not previously in the Ledger was found on Submittable and added: Entangled in Love (essay) to The Rumpus, submitted 2025-07-23, Declined. Closed, no further action.",
+   "ref": "data/submissions.json: entangled-in-love-rumpus"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "friday-reconciliation",
+   "actor": "Muse (Friday reconciliation)",
+   "summary": "First Friday reconciliation completed. Both inboxes read for the past seven days: no submission outcomes, no reply yet from Haven Spec to the 2026-11-18 query, no reply from Android Press. One discrepancy flagged for Robert: the inquiry note to Justine Norton-Kertson recorded as sent 2026-11-20 at 1:35 AM from RRemyMiller@outlook.com does not appear in Sent Items of either Outlook mailbox or Gmail sent as read today; the scheduled Nov 21 inbox check still watches for her reply. Calendar read: no project sessions posted for the past week; week ahead holds Reclaiming AI Redux Nov 23 and Etsy Nov 27. Nine tracker records re-verified; the Master_Submission_Tracker retirement now waits only on Robert's rulings for the three not-found records.",
+   "ref": "data/submissions.json; data/activity.json"
   }
  ],
  "schema_version": 1
