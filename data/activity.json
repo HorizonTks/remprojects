@@ -245,6 +245,27 @@
    "actor": "Muse (Friday reconciliation)",
    "summary": "First Friday reconciliation completed. Both inboxes read for the past seven days: no submission outcomes, no reply yet from Haven Spec to the 2026-11-18 query, no reply from Android Press. One discrepancy flagged for Robert: the inquiry note to Justine Norton-Kertson recorded as sent 2026-11-20 at 1:35 AM from RRemyMiller@outlook.com does not appear in Sent Items of either Outlook mailbox or Gmail sent as read today; the scheduled Nov 21 inbox check still watches for her reply. Calendar read: no project sessions posted for the past week; week ahead holds Reclaiming AI Redux Nov 23 and Etsy Nov 27. Nine tracker records re-verified; the Master_Submission_Tracker retirement now waits only on Robert's rulings for the three not-found records.",
    "ref": "data/submissions.json; data/activity.json"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "records-closed-by-ruling",
+   "actor": "Robert (ruling); Muse (recorded)",
+   "summary": "Robert ruled on 2026-11-20 that he does not recognize any of the three not-found tracker items: The Becoming to Emergence, The Complete Visitor's Guide to Mars on 10 cents a Day to McSweeney's, and The Sovereign Pause to Elephant Journal. All three records are closed, with no further action.",
+   "ref": "data/submissions.json: tracker-the-becoming-emergence, tracker-mars-mcsweeneys, tracker-sovereign-pause-elephant"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "tracker-retired",
+   "actor": "Robert (direction); Muse (recorded)",
+   "summary": "The Master_Submission_Tracker Google Sheet is retired at Robert's direction on 2026-11-20, now that the first Friday reconciliation has verified its nine records and Robert has ruled on the three that could not be found. The TRP Publishing Ledger (27 records) is the sole canonical submission record.",
+   "ref": "data/submissions.json"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "river-inquiry-ruling",
+   "actor": "Robert (ruling); Muse (recorded)",
+   "summary": "Asked to confirm the inquiry note to Justine Norton-Kertson or direct a resend, Robert answered on 2026-11-20 that he does not recognize Justine Norton-Kertson. He did not confirm the note and did not direct a resend, so no note will be resent on this ruling. The note remains unconfirmed in Sent Items, and the submission of The Night the River Remembers to Android Press remains unconfirmed.",
+   "ref": "data/works.json: the-night-the-river-remembers"
   }
  ],
  "schema_version": 1
