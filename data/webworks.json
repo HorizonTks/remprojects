@@ -13,12 +13,12 @@
   },
   {
    "id": "horizon-technologys",
-   "last_verified": "2026-11-03",
+   "last_verified": "2026-11-21",
    "location": "https://horizontks.com",
    "name": "Horizon Technologys",
    "provenance": "Verified",
-   "source": "Common footer verification across all pages, 2026-11-03",
-   "status": "Deployed. Common footer live; indexing and canonical work completed October 2026."
+   "source": "Prototype preview verified 2026-11-21: the preview file is byte-identical to the branch index.html; redeploy date stated by Robert 2026-11-21",
+   "status": "Horizon 2.0 redesign in progress. Homepage prototype v4 stands on the horizon-2-prototype branch (Mist Sage ground, ASSESS / DESIGN / ALIGN spine); public read-only preview at https://raw.githack.com/HorizonTks/horizontks/horizon-2-prototype/index.html. Remaining work: wrap the revisions, extend the design across the remaining pages, remove the published consulting prices, integrate Transaction Architecture under DESIGN, and develop the full case study. Revisions wrap and the redeploy to the live site are set for Monday, November 23, 2026; the live site is untouched until then. Common footer live; indexing and canonical work completed October 2026."
   },
   {
    "id": "markhamideas-org",
