@@ -266,6 +266,13 @@
    "actor": "Robert (ruling); Muse (recorded)",
    "summary": "Asked to confirm the inquiry note to Justine Norton-Kertson or direct a resend, Robert answered on 2026-11-20 that he does not recognize Justine Norton-Kertson. He did not confirm the note and did not direct a resend, so no note will be resent on this ruling. The note remains unconfirmed in Sent Items, and the submission of The Night the River Remembers to Android Press remains unconfirmed.",
    "ref": "data/works.json: the-night-the-river-remembers"
+  },
+  {
+   "date": "2026-11-21",
+   "type": "horizon-2-redeploy-set",
+   "actor": "Robert (direction); Muse (recorded)",
+   "summary": "Robert set the Horizon 2.0 schedule on 2026-11-21: revisions wrap and horizontks.com redeploys on Monday, November 23, 2026. The current homepage prototype (v4) stands on the horizon-2-prototype branch; its public preview is at https://raw.githack.com/HorizonTks/horizontks/horizon-2-prototype/index.html, verified byte-identical to the branch file on 2026-11-21. The webworks record for Horizon Technologys now carries the remaining work and the Monday date.",
+   "ref": "data/webworks.json: horizon-technologys"
   }
  ],
  "schema_version": 1
