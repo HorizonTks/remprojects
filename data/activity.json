@@ -273,6 +273,13 @@
    "actor": "Robert (direction); Muse (recorded)",
    "summary": "Robert set the Horizon 2.0 schedule on 2026-11-21: revisions wrap and horizontks.com redeploys on Monday, November 23, 2026. The current homepage prototype (v4) stands on the horizon-2-prototype branch; its public preview is at https://raw.githack.com/HorizonTks/horizontks/horizon-2-prototype/index.html, verified byte-identical to the branch file on 2026-11-21. The webworks record for Horizon Technologys now carries the remaining work and the Monday date.",
    "ref": "data/webworks.json: horizon-technologys"
+  },
+  {
+   "date": "2026-11-25",
+   "type": "river-submission-confirmed",
+   "actor": "Robert (directed); Muse (recorded)",
+   "summary": "The submission of 'The Night the River Remembers' to the Android Press anthology 'What Blooms in Darkness' is confirmed. The 2026-11-19 Moksha attempt was interrupted by a bot check and never confirmed; the editor inquiry note was sent 2026-11-20 (verified in Sent Items) and no reply arrived in five days, so Robert directed a careful resubmission on 2026-11-25. It went through once, cleanly: Moksha submission ID 6b070e2a44c09, status in progress, responses expected by about 2027-03-31. The works record's unconfirmed wording is settled and a Ledger entry added. If the November 19 attempt had in fact been recorded, the editor already holds the November 20 note explaining the duplication risk.",
+   "ref": "data/works.json: the-night-the-river-remembers; data/submissions.json: river-remembers-android-press"
   }
  ],
  "schema_version": 1
